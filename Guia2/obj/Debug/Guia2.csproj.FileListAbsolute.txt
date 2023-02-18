@@ -1,0 +1,16 @@
+C:\Users\English\Documents\c#\Guia2\Guia2\bin\Debug\Guia2.exe.config
+C:\Users\English\Documents\c#\Guia2\Guia2\bin\Debug\Guia2.exe
+C:\Users\English\Documents\c#\Guia2\Guia2\bin\Debug\Guia2.pdb
+C:\Users\English\Documents\c#\Guia2\Guia2\obj\Debug\Guia2.csproj.AssemblyReference.cache
+C:\Users\English\Documents\c#\Guia2\Guia2\obj\Debug\Guia2.csproj.SuggestedBindingRedirects.cache
+C:\Users\English\Documents\c#\Guia2\Guia2\obj\Debug\Guia2.csproj.CoreCompileInputs.cache
+C:\Users\English\Documents\c#\Guia2\Guia2\obj\Debug\Guia2.exe
+C:\Users\English\Documents\c#\Guia2\Guia2\obj\Debug\Guia2.pdb
+C:\Users\50376\Desktop\Guia2\Guia2\bin\Debug\Guia2.exe.config
+C:\Users\50376\Desktop\Guia2\Guia2\bin\Debug\Guia2.exe
+C:\Users\50376\Desktop\Guia2\Guia2\bin\Debug\Guia2.pdb
+C:\Users\50376\Desktop\Guia2\Guia2\obj\Debug\Guia2.csproj.AssemblyReference.cache
+C:\Users\50376\Desktop\Guia2\Guia2\obj\Debug\Guia2.csproj.SuggestedBindingRedirects.cache
+C:\Users\50376\Desktop\Guia2\Guia2\obj\Debug\Guia2.csproj.CoreCompileInputs.cache
+C:\Users\50376\Desktop\Guia2\Guia2\obj\Debug\Guia2.exe
+C:\Users\50376\Desktop\Guia2\Guia2\obj\Debug\Guia2.pdb
