@@ -1,0 +1,8 @@
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaTres\practicaTres\bin\Debug\practicaTres.exe.config
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaTres\practicaTres\bin\Debug\practicaTres.exe
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaTres\practicaTres\bin\Debug\practicaTres.pdb
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaTres\practicaTres\obj\Debug\practicaTres.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaTres\practicaTres\obj\Debug\practicaTres.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaTres\practicaTres\obj\Debug\practicaTres.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaTres\practicaTres\obj\Debug\practicaTres.exe
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaTres\practicaTres\obj\Debug\practicaTres.pdb
