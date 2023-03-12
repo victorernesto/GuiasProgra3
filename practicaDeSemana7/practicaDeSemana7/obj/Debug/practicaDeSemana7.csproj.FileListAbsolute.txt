@@ -1,0 +1,8 @@
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaDeSemana7\practicaDeSemana7\bin\Debug\practicaDeSemana7.exe.config
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaDeSemana7\practicaDeSemana7\bin\Debug\practicaDeSemana7.exe
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaDeSemana7\practicaDeSemana7\bin\Debug\practicaDeSemana7.pdb
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaDeSemana7\practicaDeSemana7\obj\Debug\practicaDeSemana7.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaDeSemana7\practicaDeSemana7\obj\Debug\practicaDeSemana7.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaDeSemana7\practicaDeSemana7\obj\Debug\practicaDeSemana7.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaDeSemana7\practicaDeSemana7\obj\Debug\practicaDeSemana7.exe
+C:\Users\ALUMNO\Documents\Visual Studio C#\practicaDeSemana7\practicaDeSemana7\obj\Debug\practicaDeSemana7.pdb
